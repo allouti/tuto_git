@@ -1,3 +1,4 @@
-Un autre fichier qui déchir.
-Bon la ça va mieux marcher.:x
+Un autre fichier qui dÃ©chir.
+Bon la Ã§a va mieux marcher.:x
 
+Bon visiblement il faut s'authentifier Ã  chaque fois ....
