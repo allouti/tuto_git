@@ -2,3 +2,5 @@ Un autre fichier qui déchir.
 Bon la ça va mieux marcher.:x
 
 Bon visiblement il faut s'authentifier à chaque fois ....
+
+Je commence pour verifier.
